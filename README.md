@@ -93,9 +93,9 @@ apply plugin: "com.github.johnrengelman.shadow"
 
 # Sample Flow
 
-###Sequential order
+### Sequential order
 
-####Player vs Computer
+#### Player vs Computer
 
 `[input]` : `1`
 
@@ -103,7 +103,7 @@ apply plugin: "com.github.johnrengelman.shadow"
 
 `[input]` : `y`
 
-####Computer Vs Computer
+#### Computer Vs Computer
 
 `[input]` : `2`
 
@@ -119,4 +119,4 @@ apply plugin: "com.github.johnrengelman.shadow"
 
 `type java -jar <jar file name>`
 
-
+**it can be located under build\lib**
