@@ -5,6 +5,9 @@ import Ui.Ui;
 
 import java.util.Scanner;
 
+/**
+ * A basic Rock Paper Scissors Game
+ */
 public class RockPaperScissors {
 
     static String in;

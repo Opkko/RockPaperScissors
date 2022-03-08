@@ -5,7 +5,9 @@ import Exceptions.RockPaperScissorsEmptyException;
 import Exceptions.RockPaperScissorsInvalidTypeException;
 import Ui.*;
 
-
+/**
+ * Game Functions
+ */
 public class Game {
     static Scanner input = new Scanner(System.in);
 

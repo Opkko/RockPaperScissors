@@ -1,5 +1,8 @@
 package Player;
 
+/**
+ * Class for players but in the feature for Scalability can be renamed
+ */
 public class Player {
 
     private static String playerName;

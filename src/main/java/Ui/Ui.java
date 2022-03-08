@@ -2,6 +2,11 @@ package Ui;
 
 import Player.Player;
 
+
+/**
+ * Ui Class for messages and display.
+ * Able to scale up by adding javaFx features for better UIUX.
+ */
 public class Ui {
 
 
